@@ -32,25 +32,28 @@ Puedes ejecutar el script directamente y escribir los datos línea por línea (p
 python3 main.py
 ```
 
-**Ejemplos de Entrada y Salida**
-*Archivo de entrada (entrada.txt):*
+## Ejemplos de Entrada y Salida
 
-ciudad,temperatura,unidad
-CDMX,22,C
-Nueva York,50,F
-Moscu,-10,C
-Miami,95,F
-Error,abc,C
-Chicago,14,F
-Salida generada (stdout):
+**Archivo de entrada (`entrada.txt`):**
 
-*Salida generada (stdout):*
-ciudad,temperatura_celsius,clasificacion
-CDMX,22.0,Templado
-Nueva York,10.0,Frio
-Moscu,-10.0,Congelante
-Miami,35.0,Calido
-Chicago,-10.0,Congelante
+| ciudad | temperatura | unidad |
+| :--- | :--- | :--- |
+| CDMX | 22 | C |
+| Nueva York | 50 | F |
+| Moscu | -10 | C |
+| Miami | 95 | F |
+| Error | abc | C |
+| Chicago | 14 | F |
+
+**Salida generada (stdout):**
+
+| ciudad | temperatura_celsius | clasificacion |
+| :--- | :--- | :--- |
+| CDMX | 22.0 | Templado |
+| Nueva York | 10.0 | Frio |
+| Moscu | -10.0 | Congelante |
+| Miami | 35.0 | Calido |
+| Chicago | -10.0 | Congelante |
 
 *(Nota: La línea con el error "abc" es correctamente filtrada y omitida en el reporte final).*
 
