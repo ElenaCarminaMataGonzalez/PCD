@@ -1,0 +1,36 @@
+sku,nombre,categoria,stock_actual,stock_minimo,unidades_faltantes,valor_inventario
+SKU00033,Bocina Samsung,Audio,2,50,48,1772.88
+SKU00046,Ultrabook Corsair,Electronica,14,50,36,202287.26
+SKU00060,Notebook Apple,Electronica,14,50,36,149058.84
+SKU00064,Microfono USB Kingston,Audio,14,50,36,9592.66
+SKU00003,Mousepad,Accesorios,22,50,28,9347.58
+SKU00070,Microfono MSI,Audio,2,25,23,2382.28
+SKU00035,HDD Canon,Almacenamiento,3,25,22,6170.91
+SKU00078,Procesador Lenovo,Componentes,8,30,22,52899.76
+SKU00047,Monitor Gaming Dell,Electronica,30,50,20,252997.20
+SKU00077,Microfono USB BenQ,Audio,11,30,19,17842.66
+SKU00028,Mouse Corsair,Accesorios,13,30,17,2202.72
+SKU00079,RAM SanDisk,Componentes,8,25,17,7472.72
+SKU00052,Teclado Gaming WD,Accesorios,9,25,16,20153.34
+SKU00093,MacBook Lenovo,Electronica,5,20,15,183156.75
+SKU00021,Audifonos Bluetooth Sony,Audio,1,15,14,2497.61
+SKU00007,Cartucho Tinta,Impresion,15,25,10,10723.95
+SKU00082,Audifonos Bluetooth Lenovo,Audio,15,25,10,49109.40
+SKU00005,HDD Xiaomi,Almacenamiento,2,10,8,2548.24
+SKU00087,Capturadora Video,Video,7,15,8,27867.63
+SKU00090,Touchpad Asus,Accesorios,12,20,8,19452.84
+SKU00011,Adaptador WiFi,Redes,18,25,7,11142.72
+SKU00053,Monitor Curvo Corsair,Electronica,3,10,7,37630.59
+SKU00012,HDD MSI,Almacenamiento,20,25,5,14656.40
+SKU00034,Notebook Sony,Electronica,0,5,5,0.00
+SKU00038,Switch Red,Redes,0,5,5,0.00
+SKU00054,Chromebook Epson,Electronica,10,15,5,99839.70
+SKU00086,Fuente Poder,Componentes,0,5,5,0.00
+SKU00089,Barra Sonido Corsair,Audio,45,50,5,247563.00
+SKU00091,Barra Sonido Lenovo,Audio,5,10,5,20556.25
+SKU00095,Monitor SanDisk,Electronica,0,5,5,0.00
+SKU00074,Notebook Logitech,Electronica,2,5,3,19801.22
+SKU00001,Chromebook Seagate,Electronica,23,25,2,149128.09
+SKU00051,Teclado Mecanico Acer,Accesorios,3,5,2,4749.78
+SKU00055,Mouse Gaming Asus,Accesorios,28,30,2,39947.04
+SKU00057,Monitor Gaming SanDisk,Electronica,24,25,1,448381.44

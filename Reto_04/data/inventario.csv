@@ -1,0 +1,101 @@
+sku,nombre,categoria,precio,stock,stock_minimo
+SKU00001,Chromebook Seagate,Electronica,6483.83,23,25
+SKU00002,Barra Sonido Dell,Audio,8117.31,43,30
+SKU00003,Mousepad,Accesorios,424.89,22,50
+SKU00004,HDD Externo HP,Almacenamiento,3864.17,77,50
+SKU00005,HDD Xiaomi,Almacenamiento,1274.12,2,10
+SKU00006,SSD HP,Almacenamiento,2481.90,53,20
+SKU00007,Cartucho Tinta,Impresion,714.93,15,25
+SKU00008,Tapete Gaming,Gaming,1212.63,143,50
+SKU00009,Teclado WD,Accesorios,800.04,22,15
+SKU00010,Teclado Logitech,Accesorios,3,500,126,50
+SKU00011,Adaptador WiFi,Redes,619.04,18,25
+SKU00012,HDD MSI,Almacenamiento,732.82,20,25
+SKU00013,Monitor 4K Asus,Electronica,8920.72,66,30
+SKU00014,MicroSD,Almacenamiento,751.45,16,10
+SKU00015,Cable USB C,Cables,435.07,54,25
+SKU00016,Audifonos Bluetooth SanDisk,Audio,mil,21,15
+SKU00017,NAS HP,Almacenamiento,13725.63,7,5
+SKU00018,Mouse Ergonomico Gigabyte,Accesorios,1351.59,129,50
+SKU00019,Stylus WD,Accesorios,2942.99,69,25
+SKU00020,Licencia Adobe,Software,2938.13,11,5
+SKU00021,Audifonos Bluetooth Sony,Audio,2497.61,1,15
+SKU00022,Procesador HyperX,Componentes,11150.58,45,15
+SKU00023,HDD Externo Canon,Almacenamiento,sin_dato,85,50
+SKU00024,Audifonos Gaming Dell,Audio,808.58,56,20
+SKU00025,Notebook Dell,Electronica,15848.73,38,15
+SKU00026,HDD Externo Lenovo,Almacenamiento,3909.45,12,5
+SKU00027,HDD Externo Dell,Almacenamiento,2455.04,42,30
+SKU00028,Mouse Corsair,Accesorios,169.44,13,30
+SKU00029,Monitor 4K Xiaomi,Electronica,10989.83,???,20
+SKU00030,Chromebook BenQ,Electronica,12076.50,20,10
+SKU00031,Teclado Mecanico Seagate,Accesorios,2150.20,45,20
+SKU00032,Chromebook Kingston,Electronica,10211.81,9,20,error,---,NaN
+SKU00033,Bocina Samsung,Audio,886.44,2,50
+SKU00034,Notebook Sony,Electronica,13184.16,0,5
+SKU00035,HDD Canon,Almacenamiento,2056.97,3,25
+SKU00036,Licencia Office,Software,1332.90,45,15
+SKU00037,Microfono USB Apple,Audio,TBD,13,5
+SKU00038,Switch Red,Redes,1923.30,0,5
+SKU00039,Laptop WD,Electronica,13714.98,48,20
+SKU00040,NAS Canon,Almacenamiento,12711.51,25,10
+SKU00041,Ultrabook Corsair,Electronica,18541.50,49,30
+SKU00042,Pantalla Portatil HyperX,Electronica,7950.78,58,25
+SKU00043,Router,Redes,1537.55,14,5
+SKU00044,Bocina Bluetooth Kingston,Audio,809.09,20,50,,$100
+SKU00045,USB Drive HyperX,Almacenamiento,353.97,57,20
+SKU00046,Ultrabook Corsair,Electronica,14449.09,14,50
+SKU00047,Monitor Gaming Dell,Electronica,8433.24,30,50
+SKU00048,Procesador Samsung,Componentes,11896.27,65,25
+SKU00049,Laptop Xiaomi,Electronica,15429.10,30,10
+SKU00050,Procesador Seagate,Componentes,14704.89,37,25
+SKU00051,Teclado Mecanico Acer,Accesorios,1583.26,3,5
+SKU00052,Teclado Gaming WD,Accesorios,2239.26,9,25
+SKU00053,Monitor Curvo Corsair,Electronica,12543.53,3,10
+SKU00054,Chromebook Epson,Electronica,9983.97,10,15
+SKU00055,Mouse Gaming Asus,Accesorios,1426.68,28,30
+SKU00056,Monitor HyperX,Electronica,4104.63,81,30
+SKU00057,Monitor Gaming SanDisk,Electronica,18682.56,24,25
+SKU00058,MacBook Seagate,Electronica,27856.50,33,20
+SKU00059,Monitor Corsair,Electronica,9693.71,29,10
+SKU00060,Notebook Apple,Electronica,10647.06,14,50
+SKU00061,USB Drive Epson,Almacenamiento,233.92,15,10
+SKU00062,Mouse Gaming HyperX,Accesorios
+SKU00063,Bocina Bluetooth Corsair,Audio,1159.51,45,20
+SKU00064,Microfono USB Kingston,Audio,685.19,14,50
+SKU00065,Notebook Gigabyte,Electronica,12574.62,80,30
+SKU00066,SSD Razer,Almacenamiento,2355.71,37
+SKU00067,Teclado Mecanico Asus,Accesorios,2200.75,36,20
+SKU00068,HDD HyperX,Almacenamiento,855.87,66,25
+SKU00069,Chromebook Acer,Electronica,6482.21,38,20
+SKU00070,Microfono MSI,Audio,1191.14,2,25
+SKU00071,MacBook MSI,Electronica,mil,19,10
+SKU00072,NAS HyperX,Almacenamiento,9033.65,11,10
+SKU00073,Bocina MSI,Audio,1778.82,108,50
+SKU00074,Notebook Logitech,Electronica,9900.61,2,5
+SKU00075,Tarjeta Video Sony,Componentes,17077.22,20,15
+SKU00076,Audifonos Gaming Epson,Audio,1218.75,6,???
+SKU00077,Microfono USB BenQ,Audio,1622.06,11,30
+SKU00078,Procesador Lenovo,Componentes,6612.47,8,30
+SKU00079,RAM SanDisk,Componentes,934.09,8,25
+SKU00080,USB Drive SanDisk,Almacenamiento,158.79,55,30
+SKU00081,USB Drive Corsair,Almacenamiento,100.64,11,5
+SKU00082,Audifonos Bluetooth Lenovo,Audio,3273.96,15,25
+SKU00083,HDD Externo Kingston,Almacenamiento,3280.23,10,5
+SKU00084
+SKU00085,Audifonos Bluetooth Asus,Audio,2673.06,mil,5
+SKU00086,Fuente Poder,Componentes,699.13,0,5
+SKU00087,Capturadora Video,Video,3981.09,7,15
+SKU00088,Bocina Bluetooth Corsair,Audio,3029.39,25,15
+SKU00089,Barra Sonido Corsair,Audio,5501.40,45,50
+SKU00090,Touchpad Asus,Accesorios,1621.07,12,20
+SKU00091,Barra Sonido Lenovo,Audio,4111.25,5,10
+SKU00092,Cable USB C,Cables,177.12,14,10
+SKU00093,MacBook Lenovo,Electronica,36631.35,5,20
+SKU00094,Monitor Gaming Logitech,Electronica,6980.43,14,null
+SKU00095,Monitor SanDisk,Electronica,4040.52,0,5
+SKU00096,Stylus Razer,Accesorios,2379.02,128,50
+SKU00097,Ultrabook BenQ,Electronica,20289.90,28,10
+SKU00098,Laptop Razer,Electronica,19311.05,30,20
+SKU00099,Mouse Ergonomico Samsung,Accesorios,747.46,8,5
+SKU00100,Soporte Monitor,Accesorios,sin_dato,13,20
