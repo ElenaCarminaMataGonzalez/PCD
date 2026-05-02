@@ -1,0 +1,156 @@
+fecha,producto,cantidad,precio,vendedor
+2026-11-04,Laptop,8,14755.78,Bob,extra
+2026-02-07,Monitor,1,14348.79,  
+2026-01-25,Tablet,14,3194.04,
+2026-06-28,Webcam,26,  ,Bob
+2026-09-10,Cargador,29,11589.31
+2026-04-25,Impresora,28,2109.93,Eva
+2026-03-12,Webcam,9,13702.6,Bob
+2026-12-08,Teclado,9,12836.0,Diana
+2026-01-08,Cargador,  ,1417.15,
+2026-11-15,Teclado,8,10825.65,  
+2026-04-05,Audífonos,25,,Carlos
+2026-07-20,Mouse,20,10629.38,Ana
+2026-09-25,Impresora,11,  ,Carlos
+2026-12-09,Audífonos,17,17423.32,Eva
+2026-04-05,Webcam,18,18456.44,Ana
+2026-02-12,Bocina Bluetooth,26,1252.71,Bob
+2026-02-25,Audífonos,5,18942.29,Carlos
+2026-07-07,Bocina Bluetooth,24,14287.68,  
+2026-08-17,Memoria USB,8,,Diana,extra
+2026-12-21,Laptop,29,sin_dato,Bob
+2026-08-07,Audífonos,30,11566.61,Diana
+2026-04-04,Mouse,12,9393.79,Ana
+2026-02-02,Disco Duro,26,5048.26,Diana
+2026-03-09,Memoria USB,30,,Ana
+2026-01-03,Bocina Bluetooth,8,9764.26,Diana
+2026-03-13,Laptop,9,15724.07,Eva
+2026-09-22,Soporte Monitor,7,19377.32,Ana
+2026-10-16,Audífonos,17,19219.5,Bob
+2026-02-22,Cargador,4,11436.54,Ana
+2026-10-19,Audífonos,9,14352.22,Diana
+2026-11-10,Memoria USB,25,285.38,Bob
+2026-05-05,Bocina Bluetooth,3,7453.59,Carlos
+2026-05-20,Tablet,1,11136.59,Bob
+2026-02-04,Soporte Monitor,9,4291.53,
+2026-05-17,Memoria USB,30,1936.74,  ,extra
+2026-06-25,Teclado,9,8892.53,  
+2026-12-05,Audífonos,  ,3047.07
+2026-06-26,Cargador,  ,5065.64,Bob
+2026-07-20,Soporte Monitor,30,3333.79,Carlos,extra
+2026-12-11,Tablet,26,14727.65,Diana
+2026-02-13,Cargador,err,16350.07,
+2026-04-08,Laptop,13,17300.62,Eva
+2026-11-27,Audífonos,1,sin_dato,Carlos
+2026-01-04,Cable HDMI,24,8784.24,Bob
+2026-05-02,Soporte Monitor,17,10815.19,Diana
+2026-11-11,Cable HDMI,28,sin_dato,Eva
+2026-12-10,Audífonos,14,7644.99,Carlos
+2026-09-27,Laptop,7,11641.7,
+2026-04-17,Memoria USB,26,13211.13,Eva
+2026-06-03,Cargador,8,4570.35,Diana,extra
+2026-08-20,Cargador,15,12632.33,Diana
+2026-07-08,Teclado,1,17222.77,Bob
+2026-12-17,Memoria USB,N/A,2515.04,Carlos
+2026-09-20,Webcam,29,16318.63,  
+2026-03-24,Cargador,9,16813.27,Eva
+2026-11-08,Impresora,23,5507.13,
+2026-03-08,Disco Duro,23,8355.87,
+2026-04-27,Disco Duro,25,13940.91,  
+2026-05-25,Disco Duro,27,14975.56,Diana
+2026-08-01,Disco Duro,22,14511.21,
+2026-09-01,Bocina Bluetooth,19,1770.55,  
+2026-01-09,Disco Duro,15,15248.47,  
+2026-07-09,Cargador,,1136.5,
+2026-11-02,Tablet,N/A,505.56,Carlos
+2026-02-19,Monitor,9,3439.0,Bob
+2026-05-04,Cable HDMI,  ,18169.72,  
+2026-02-19,Soporte Monitor,8,sin_dato,Bob
+2026-01-12,Audífonos,12,sin_dato,Ana
+2026-02-14,Webcam,27,3144.52,Carlos
+2026-05-20,Tablet,25,8767.93,Eva
+2026-02-09,Bocina Bluetooth,25,12245.6,  
+2026-06-06,Memoria USB,26,5665.2,Eva
+2026-04-03,Monitor,16,4882.45,
+2026-01-03,Impresora,23,13312.8,
+2026-07-24,Audífonos,23,6201.8,Diana
+2026-02-24,Audífonos,23,4406.05,
+2026-09-20,Impresora,27,4626.91,Carlos
+2026-03-09,Laptop,18,18887.38,,extra
+2026-05-16,Memoria USB,6,5124.32,
+2026-08-03,Cable HDMI,2,16241.73,Eva
+2026-09-25,Disco Duro,26,15536.3,  
+2026-10-14,Impresora,2,14827.78,Diana
+2026-02-06,Monitor,3,8229.5,
+2026-12-10,Soporte Monitor,3,18485.83,Diana
+2026-11-05,Bocina Bluetooth,5,??,Eva
+2026-05-15,Mouse,10,18859.26,
+2026-07-24,Webcam,1,,Eva
+2026-03-16,Audífonos,30,19939.21,  
+2026-02-16,Webcam,11,17168.89,
+2026-11-13,Cargador,2,6358.89,
+2026-09-27,Laptop,18,1178.66,
+2026-08-25,Laptop,18,sin_dato,
+2026-01-21,Cable HDMI,23,11061.7,  
+2026-02-15,Mouse,5,14360.41,Eva
+2026-08-08,Memoria USB,13,12027.61,Carlos
+2026-07-11,Bocina Bluetooth,9,5728.5,Eva
+2026-11-16,Cargador,18,6715.56,  
+2026-04-23,Monitor,8,8274.42,
+2026-07-13,Hub USB-C,21,9957.04,Ana
+2026-06-28,Mouse,15,  ,Ana
+2026-11-05,Mouse,9,13884.82,Bob
+2026-09-13,Webcam,29,17460.42,Ana
+2026-11-10,Monitor,14,15231.36,Bob
+2026-01-02,Webcam,10,8670.67,Diana
+2026-03-06,Teclado,err,4892.51,Carlos
+2026-08-09,Hub USB-C,err,13584.46,Carlos
+2026-10-10,Hub USB-C,23,16921.55,Diana
+2026-02-08,Disco Duro,19,14015.65,Ana
+2026-05-01,Cable HDMI,25,1075.98,
+2026-04-20,Tablet,21,5087.47,Carlos
+2026-11-02,Impresora,2,14673.96,Bob
+2026-07-06,Monitor,18,7380.56,Eva
+2026-08-26,Impresora,11,9419.79,Bob
+2026-11-24,Hub USB-C,28,7378.92
+2026-09-04,Memoria USB,24,11732.75,
+2026-01-20,Bocina Bluetooth,11,4505.21,Bob
+2026-12-10,Hub USB-C,5,,Eva
+2026-04-18,Teclado,12,14888.49,  
+2026-07-21,Mouse,20,19035.28,Ana
+2026-08-08,Cargador,22,18043.75,
+2026-02-28,Cargador,22,12825.91,Ana
+2026-03-26,Cable HDMI,27,4222.43,Diana
+2026-03-26,Bocina Bluetooth,9,2979.29,Carlos
+2026-02-22,Cargador,,15789.79
+2026-05-02,Teclado,17,,
+2026-10-04,Memoria USB,20,sin_dato,,extra
+2026-08-28,Disco Duro,4,18203.05,Bob
+2026-03-03,Teclado,21,14271.84,  
+2026-08-17,Cable HDMI,26,17070.58,Diana
+2026-07-11,Cargador,14,6319.71,
+2026-03-22,Bocina Bluetooth,3,1955.28,Bob
+2026-03-18,Laptop,18,13433.26,  
+2026-07-28,Bocina Bluetooth,10,7097.76,Diana
+2026-02-12,Cargador,4,11524.59,  
+2026-10-20,Hub USB-C,1,13190.84
+2026-05-23,Tablet,11,3709.97,Carlos
+2026-03-24,Hub USB-C,3,4381.14,  
+2026-05-24,Webcam,19,17678.51,Carlos
+2026-11-03,Impresora,14,8896.68,Eva
+2026-06-14,Mouse,22,10585.99
+2026-07-20,Laptop,  ,15370.26,Eva
+2026-08-24,Disco Duro,13,4679.2,
+2026-01-14,Laptop,3,11557.61,  
+2026-02-13,Laptop,6,12400.69,
+2026-04-14,Cable HDMI,3,6274.46,
+2026-02-17,Hub USB-C,17,15546.94,
+2026-03-08,Mouse,7,3142.11,Bob
+2026-08-15,Tablet,19,18490.67,
+2026-03-15,Mouse,21,5566.01,Ana
+2026-08-15,Laptop,  ,,  
+2026-12-02,Memoria USB,19,6498.38,
+2026-08-04,Tablet,11,1778.15
+2026-12-15,Memoria USB,20,7519.75,Eva
+2026-11-20,Laptop,21,6660.85,  
+2026-11-20,Cargador,3,2914.42,

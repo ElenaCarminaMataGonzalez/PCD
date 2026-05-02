@@ -1,0 +1,156 @@
+id,nombre,email,departamento,salario,activo
+1,Gabriela Ruiz,gabriela.ruiz@empresa.com,RRHH,43066.21,yes
+2,López,.lópez,,34914.46,no
+3,Diana Torres,diana.torres@corp.net,TI,52922.93, 
+4,Ana Hernández,ana.hernández@corp.net,,70723.98,
+5,García,.garcía@corp.net,Marketing,68109.02,no
+6,Torres,.torres,Marketing,52659.87,t
+7,Carlos Martínez,,Marketing,30642.44, 
+8,Carlos Martínez,carlos.martínez@corp.net,,37212.09,f
+9,Gabriela García,gabriela.garcía,Ventas,37349.63,0
+10,Fernando Ruiz,fernando.ruiz,,66736.26,f,extra
+11,Bob García,bob.garcía@corp.net,,48279.01,1
+12,Diana,diana.,TI,57820.65,true
+13,Carlos Martínez,carlos.martínez,Ventas,61751.82, 
+14,García,.garcía,TI,38950.76,true
+15,Diana López,diana.lópez,Ventas,, 
+16,,.@corp.net,TI,27034.11
+17,Diana García,diana.garcía,,51036.99,true
+18,Fernando García,fernando.garcía,RRHH,73921.76,f
+19,Carlos,carlos.,,64989.47,false
+20,Carlos Martínez,carlos.martínez@empresa.com,RRHH,58144.19,t
+21,García,.garcía,,78901.5,true
+22,Fernando Ruiz,fernando.ruiz@corp.net,,26913.94,false
+23,Fernando,fernando.@empresa.com,,45403.05,f
+24,Hernández,.hernández,Ventas,N/A,f
+25,Bob Martínez,bob.martínez,Ventas,75406.34,f
+26,Bob,bob.,TI,79261.61,0
+27,Eva Martínez,eva.martínez@corp.net,,79182.29,yes
+28,Fernando Hernández,fernando.hernández@corp.net,,46898.8,f
+29,Bob Ruiz,bob.ruiz@empresa.com,Marketing,32058.4, 
+30,Carlos,carlos.@empresa.com,,34056.14,0
+31,Martínez,.martínez,Ventas,31884.37,1
+32,Carlos Ruiz,carlos.ruiz,,N/A
+33,Eva Torres,eva.torres,,59494.02,1
+34,Diana,diana.@empresa.com,  ,,f
+35,Fernando Ruiz,fernando.ruiz,  ,46929.41,0
+36,Diana,diana.,Ventas,76996.17,
+37,Carlos Hernández,carlos.hernández,Ventas,53309.87,f
+38,Bob,bob.@corp.net,Ventas,pendiente,f
+39,Martínez,.martínez@empresa.com,Marketing,45117.77,t
+40,Torres,.torres,TI,55242.14,
+41,Bob,bob.,,35948.18, ,extra
+42,Ana Ruiz,ana.ruiz,,53352.82,0
+43,Gabriela Martínez,gabriela.martínez,  ,25915.03,0
+44,Eva García,eva.garcía,  ,56769.89,true
+45,Gabriela Ruiz,gabriela.ruiz@corp.net,TI,35493.14,f
+46,Diana,diana.,,63817.64, 
+47,,.@corp.net,Marketing,44485.78,1
+48,Diana Martínez,diana.martínez@corp.net,RRHH,62963.2,f
+49,Eva Martínez,eva.martínez,Marketing,69253.87
+50,Bob Hernández,bob.hernández,  ,54621.79, 
+51,Diana Torres,,,30510.89,0
+52,Carlos García,carlos.garcía@corp.net,Marketing,51163.48,no
+53,Eva García,eva.garcía@empresa.com,  ,64771.47,true
+54,Carlos García,carlos.garcía,,77917.23,1,extra
+55,Bob Hernández,bob.hernández,Ventas,35604.63,false
+56,Eva Ruiz,,RRHH,66650.55,yes
+57,Gabriela,gabriela.@empresa.com,Marketing,32733.65,0,extra
+58,Gabriela Torres,gabriela.torres,RRHH,25628.97,0
+59,Bob,bob.,  ,63695.64,1
+60,Eva Hernández,eva.hernández@corp.net,Ventas,79386.09,0
+61,Torres,.torres@empresa.com,,29295.65,
+62,Torres,.torres@corp.net,Ventas,31393.2,no
+63,,.,Ventas,28175.52,f
+64,Ana,ana.@empresa.com,  ,48303.36,false
+65,Bob,,Marketing,60283.88,t
+66,,.@corp.net,  ,79606.57,t
+67,Diana García,diana.garcía,Marketing,54256.35,no
+68,Eva Torres,eva.torres@empresa.com,TI,67132.94,true
+69,Ana,ana.@empresa.com,Ventas,37888.66,no
+70,Carlos Martínez,carlos.martínez,,42636.58,1
+71,Torres,.torres,TI,65436.67,yes
+72,García,.garcía,,47454.25,1
+73,Torres,.torres,,75310.76, 
+74,Ruiz,.ruiz,Ventas,49738.28,0
+75,Diana García,diana.garcía@empresa.com,,,
+76,Torres,.torres,RRHH,N/A,false
+77,Diana Torres,diana.torres@corp.net,,50643.78,0
+78,,,  ,75288.18,0,extra
+79,Diana Ruiz,,,47966.79,yes
+80,Diana,diana.,RRHH,64795.69,f
+81,Fernando Ruiz,fernando.ruiz,Ventas,60299.52,true
+82,Bob García,bob.garcía,Ventas,63894.33,true
+83,Ana,ana.@empresa.com,TI,25919.94,1
+84,,.@corp.net,TI,38253.29,
+85,Eva,,Marketing,63348.0,1
+86,Ana López,ana.lópez,,63656.48,false
+87,Fernando López,fernando.lópez@empresa.com,Ventas,73815.49,f
+88,Eva García,eva.garcía,TI,66374.0,t
+89,Diana,diana.,Marketing,79366.29,false
+90,Ana López,ana.lópez@empresa.com,RRHH,57758.48
+91,Eva,eva.,,62383.22,t
+92,Diana López,,Ventas,33485.23,t
+93,Ana Martínez,ana.martínez,TI,49686.4, 
+94,Bob Hernández,bob.hernández,,46328.98,false
+95,Diana Ruiz,diana.ruiz@corp.net,Ventas,33026.42,yes
+96,López,.lópez@corp.net,  ,35755.15,false,extra
+97,Gabriela Hernández,gabriela.hernández,,48683.89,
+98,Diana,diana.,RRHH,52005.4,
+99,Eva,eva.@corp.net,,67218.98,true
+100,Diana,diana.@empresa.com,,62013.77,yes
+101,Carlos,carlos.@empresa.com,Marketing,47044.28, 
+102,Gabriela García,gabriela.garcía,  ,60099.92,false
+103,Fernando Ruiz,fernando.ruiz@empresa.com,,46978.98,0
+104,Ana López,ana.lópez@corp.net,Marketing,62375.55, 
+105,López,.lópez@empresa.com,TI,44158.08,0
+106,Hernández,.hernández,  ,41514.52
+107,Fernando López,fernando.lópez@corp.net,  ,33807.46, 
+108,Gabriela Ruiz,gabriela.ruiz,Marketing,,
+109,Gabriela,,Ventas,69480.14,false
+110,Ruiz,.ruiz@corp.net,Marketing,51921.62,0
+111,Bob Hernández,bob.hernández,,69033.74,
+112,Fernando López,fernando.lópez@empresa.com,Ventas,46365.48,
+113,Carlos,carlos.@corp.net,,35290.42,f
+114,Ana,ana.,,62658.32,t
+115,Carlos López,carlos.lópez@corp.net,RRHH,,no
+116,,.@empresa.com,,70280.55,0
+117,Torres,.torres@empresa.com,  ,41373.99,true
+118,Bob,bob.@empresa.com,,65568.71,0
+119,Gabriela Ruiz,gabriela.ruiz@corp.net,,44294.85,1
+120,Eva Martínez,eva.martínez@empresa.com,Ventas,75532.28,1
+121,Carlos Torres,carlos.torres,,46598.54,yes
+122,Gabriela,gabriela.@empresa.com,Marketing,76498.49,0
+123,Ana López,ana.lópez,  ,28483.19, 
+124,Diana,diana.,RRHH,71883.24,0
+125,Ana López,ana.lópez,TI,49270.73,true
+126,Carlos Martínez,carlos.martínez,TI,45451.41,yes
+127,Diana,diana.@empresa.com,TI,57652.37, ,extra
+128,Fernando López,fernando.lópez,  ,46068.85,false
+129,Eva Ruiz,eva.ruiz@corp.net,  ,54177.96,true
+130,Fernando Torres,fernando.torres@corp.net,Marketing,36948.46,false
+131,Gabriela Hernández,gabriela.hernández,,29633.68, 
+132,Eva García,eva.garcía,Ventas,66131.4,1
+133,Diana,diana.@corp.net,Marketing,73879.85,true
+134,Carlos,carlos.,RRHH,50905.8
+135,Bob García,bob.garcía@empresa.com,TI,40756.83, 
+136,Gabriela López,gabriela.lópez@corp.net,RRHH,,false
+137,Carlos Hernández,carlos.hernández@empresa.com,RRHH,71555.75,true
+138,Bob,bob.@empresa.com,RRHH,34660.52,true
+139,Carlos,carlos.,Ventas,73040.3,false,extra
+140,Gabriela Martínez,gabriela.martínez,  ,52288.12, 
+141,Carlos Hernández,carlos.hernández@empresa.com,,65742.9
+142,Ana Torres,,RRHH,76213.8,true
+143,Gabriela Torres,gabriela.torres,  ,56434.48,false
+144,Carlos Torres,carlos.torres@empresa.com,Marketing,,f
+145,Eva Hernández,,Marketing,,no
+146,Diana,diana.,,55060.76,no
+147,Ana Torres,ana.torres@empresa.com,RRHH,,t
+148,Bob Torres,bob.torres@corp.net,Marketing,79832.76,1
+149,,.,Marketing,30256.74,yes
+150,Ana,ana.@corp.net,Ventas,75932.31,t
+151,Fernando,fernando.@empresa.com,Ventas,30993.51,false
+152,Gabriela López,gabriela.lópez@corp.net,Marketing,31595.25,yes
+153,Ana Torres,ana.torres,Ventas,,no
+154,Ana Martínez,ana.martínez@corp.net,TI,55577.46, 
+155,Carlos López,,,35897.32,t

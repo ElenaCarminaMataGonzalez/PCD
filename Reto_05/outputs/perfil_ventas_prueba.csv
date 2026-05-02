@@ -1,0 +1,6 @@
+nombre_columna,tipo_inferido,total_registros,valores_nulos,porcentaje_nulos,valores_unicos,porcentaje_unicos,ejemplo_valor
+fecha,fecha,5,0,0,5,100,01/01/2026
+producto,texto,5,0,0,4,80,Laptop
+cantidad,numerico,5,1,20,4,80,2
+precio,numerico,5,1,20,3,60,15000
+vendedor,texto,5,1,20,3,60,Ana
