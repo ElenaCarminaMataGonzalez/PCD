@@ -1,0 +1,2 @@
+# Este proyecto no tiene dependencias externas
+# (usa solo la biblioteca estandar de Python)
