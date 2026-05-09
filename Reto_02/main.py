@@ -71,7 +71,7 @@ def main():
 
         if resultado is not None:
             ciudad, temperatura, clasificacion = resultado
-            print(f"{ciudad}, {temperatura:.1f}, {clasificacion}")
+            print(f"{ciudad},{temperatura:.1f},{clasificacion}")
 
 
 if __name__ == "__main__":
