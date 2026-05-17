@@ -21,7 +21,7 @@ python3 main.py < tests/entrada.txt
 Para guardar el resultado directamente en un nuevo archivo CSV, utiliza `>`:
 
 ```bash
-python3 main.py < tests/entrada.txt > tests/salida_esperada.txt
+python3 main.py < test/entrada.txt > test/salida_esperada.txt
 ```
 
 **3. Prueba manual en consola:**
