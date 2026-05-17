@@ -1,3 +1,5 @@
+import math
+
 def Validar_sku(sku):
     """
     Valida que el SKU sea una cadena no vacía.
@@ -21,9 +23,13 @@ def Validar_Precio(precio):
     """
     try:
         valor_precio = float(precio)
+        # Bloqueo de inf y nan
+        if math.isinf(valor_precio) or math.isnan(valor_precio):
+            return False
         return valor_precio > 0
     except (ValueError, TypeError):
         return False
+        
     
 def Validar_Stock(stock):
     """
