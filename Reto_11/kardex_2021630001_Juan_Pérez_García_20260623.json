@@ -1,0 +1,93 @@
+[
+  {
+    "materia_id":"MAT101",
+    "nombre":"Cálculo Diferencial",
+    "creditos":8,
+    "parcial_1":5.8,
+    "parcial_2":7.2,
+    "final":7.0,
+    "promedio":6.67,
+    "estatus":"APROBADO",
+    "boleta":"2021630001",
+    "estudiante":"Juan Pérez García",
+    "semestre":4
+  },
+  {
+    "materia_id":"MAT102",
+    "nombre":"Cálculo Integral",
+    "creditos":8,
+    "parcial_1":6.1,
+    "parcial_2":4.5,
+    "final":4.8,
+    "promedio":5.13,
+    "estatus":"REPROBADO",
+    "boleta":"2021630001",
+    "estudiante":"Juan Pérez García",
+    "semestre":4
+  },
+  {
+    "materia_id":"PROG101",
+    "nombre":"Programación I",
+    "creditos":6,
+    "parcial_1":3.9,
+    "parcial_2":7.5,
+    "final":6.9,
+    "promedio":6.1,
+    "estatus":"APROBADO",
+    "boleta":"2021630001",
+    "estudiante":"Juan Pérez García",
+    "semestre":4
+  },
+  {
+    "materia_id":"PROG102",
+    "nombre":"Programación II",
+    "creditos":6,
+    "parcial_1":4.9,
+    "parcial_2":5.8,
+    "final":5.4,
+    "promedio":5.37,
+    "estatus":"REPROBADO",
+    "boleta":"2021630001",
+    "estudiante":"Juan Pérez García",
+    "semestre":4
+  },
+  {
+    "materia_id":"EST101",
+    "nombre":"Probabilidad",
+    "creditos":6,
+    "parcial_1":8.6,
+    "parcial_2":6.4,
+    "final":6.1,
+    "promedio":7.03,
+    "estatus":"APROBADO",
+    "boleta":"2021630001",
+    "estudiante":"Juan Pérez García",
+    "semestre":4
+  },
+  {
+    "materia_id":"EST102",
+    "nombre":"Estadística Inferencial",
+    "creditos":6,
+    "parcial_1":4.8,
+    "parcial_2":4.7,
+    "final":5.8,
+    "promedio":5.1,
+    "estatus":"REPROBADO",
+    "boleta":"2021630001",
+    "estudiante":"Juan Pérez García",
+    "semestre":4
+  },
+  {
+    "materia_id":"BD101",
+    "nombre":"Bases de Datos",
+    "creditos":6,
+    "parcial_1":7.4,
+    "parcial_2":8.3,
+    "final":8.2,
+    "promedio":7.97,
+    "estatus":"APROBADO",
+    "boleta":"2021630001",
+    "estudiante":"Juan Pérez García",
+    "semestre":4
+  }
+]
